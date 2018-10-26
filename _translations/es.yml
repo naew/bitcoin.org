@@ -1019,11 +1019,11 @@ es:
     developer-documentation: documentacion-desarrolladores
     developer-examples: ejemplos-desarrolladores
     developer-glossary: glosario-desarrolladores
-    developer-guide: guía-desarrolladores
+    developer-guide: guia-desarrolladores
     developer-reference: referencia-desarrolladores
     development: desarrollo
     download: descargar
-    exchanges: casas de cambio
+    exchanges: casas-de-cambio
     events: eventos
     faq: faq
     getting-started: como-empezar
@@ -1039,8 +1039,8 @@ es:
     support-bitcoin: apoya-bitcoin
     vocabulary: vocabulario
     you-need-to-know: debes-saber
-    bitcoin-paper: documento de bitcoin
-    spend-bitcoin: Utilizar Bitcoin
+    bitcoin-paper: documento-de-bitcoin
+    spend-bitcoin: utilizar-bitcoin
   anchor:
     community:
       non-profit: sin-animo-de-lucro
