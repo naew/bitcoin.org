@@ -115,7 +115,6 @@ redirects:
   /de/developer-reference: /de/entwickler-referenzen
   /de/developer-documentation: /de/entwickler-dokumentation
   /en/about: /en/faq
-  /es/acerca-de: /es/faq
   /fr/a-propos: /fr/faq
   /id/developer-documentation: /id/dokumentasi-pengembang
   /id/bitcoin-paper: /id/makalah-bitcoin
@@ -137,7 +136,13 @@ redirects:
   /zh_TW/about: /zh_TW/faq
   /de/bitcoin-fuer-enthusiasten: /de/innovation
   /en/bitcoin-for-enthusiasts: /en/innovation
+  /es/acerca-de: /es/faq
   /es/bitcoin-para-entusiastas: /es/innovacion
+  /es/developer-documentation: /es/documentacion-desarrolladores
+  /es/developer-reference: /es/referencia-desarrolladores
+  /es/developer-guide: /es/guia-desarrolladores
+  /es/developer-glossary: /es/glosario-desarrolladores
+  /es/developer-examples: /es/ejemplos-desarrolladores
   /fr/bitcoin-pour-passionnes: /fr/innovation
   /it/bitcoin-per-appassionati: /it/innovazione
   /nl/bitcoin-voor-liefhebbers: /nl/innovatie
@@ -153,7 +158,6 @@ redirects:
   /bg/buy: /en/buy
   /da/buy: /en/buy
   /el/buy: /en/buy
-  /es/buy: /en/buy
   /fa/buy: /en/buy
   /fr/buy: /en/buy
   /hi/buy: /en/buy
