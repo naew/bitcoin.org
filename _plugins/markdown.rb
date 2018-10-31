@@ -9,7 +9,13 @@ module Jekyll
     require "kramdown"
     def render(context)
       content = super
-      "#{Kramdown::Document.new(content).to_html}"
+      doc = Kramdown::Document.new(content)
+      res = doc.to_html
+      if doc.warnings.count > 0
+        puts doc.warnings.join("\n")
+        exit
+      end
+      "#{res}"
     end
   end
 end
